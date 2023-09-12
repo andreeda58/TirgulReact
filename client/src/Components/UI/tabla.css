@@ -1,0 +1,47 @@
+.tabla {
+
+    border: 1px solid black;
+    width: 50%;
+
+}
+
+
+
+th,
+td {
+    border: 1px solid #000;
+    padding-left: 10px;
+    border-collapse: collapse;
+    border-spacing: 0 px;
+}
+
+thead {
+    text-align: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.hello {
+    height: 500px;
+   display: flex;
+   flex-direction: row;
+   background-color:aquamarine ;
+   align-items: center;
+   
+  
+   
+
+}
+
+.hello-iem{
+    margin: 20px;
+    
+}
+h2{
+    width: 50%;
+    display: flex;
+    justify-content:  center;
+}

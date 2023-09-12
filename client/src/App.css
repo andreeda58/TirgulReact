@@ -1,0 +1,43 @@
+
+
+.espace{
+  margin-top : 10px ;
+}
+
+.container2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+form >div{
+  margin-top : 10px ;
+
+}
+
+.nave{
+  width: 100%;
+  background-color: antiquewhite;
+}
+
+
+.app{
+  display: flex;
+  margin-top: 10px;
+  
+}
+
+.rutas{
+  
+  height: 70%;
+}
+
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+
